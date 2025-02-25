@@ -19,9 +19,10 @@ Database: Appwrite (for tracking search counts)
 
 
 📸 Screenshots
-![homepage1](./screenshots/homepage1.png)
-![homepage2](./screenshots/homepage2.png)
-![homepage3](./screenshots/homepage3.png) 
+![homepage1](https://raw.githubusercontent.com/AbhaySINGH-18/Movie-Search-Website/main/screenshots/homepage1.png)
+![homepage2](https://raw.githubusercontent.com/AbhaySINGH-18/Movie-Search-Website/main/screenshots/homepage2.png)
+![homepage3](https://raw.githubusercontent.com/AbhaySINGH-18/Movie-Search-Website/main/screenshots/homepage3.png)
+
 
 
 📜 License
