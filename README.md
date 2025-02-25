@@ -19,9 +19,9 @@ Database: Appwrite (for tracking search counts)
 
 
 📸 Screenshots
-![homepage1](screenshots/homepage1.png)
-![homepage2](screenshots/homepage2.png)
-![homepage3](screenshots/homepage3.png) 
+![homepage1](./screenshots/homepage1.png)
+![homepage2](./screenshots/homepage2.png)
+![homepage3](./screenshots/homepage3.png) 
 
 
 📜 License
